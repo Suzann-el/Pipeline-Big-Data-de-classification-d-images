@@ -1,0 +1,10 @@
+Dataset Fruits 360 — Stockage AWS S3
+Bucket : s3://fruits-bigdata-projet
+Région : eu-north-1 (Stockholm)
+
+Images brutes :
+s3://fruits-bigdata-projet/Data/Training/ (131 catégories, 90 423 images)
+
+Sortie réduction de dimension :
+s3://fruits-bigdata-projet/Outputs/pca_output.csv
+s3://fruits-bigdata-projet/Outputs/variance_pca.png
